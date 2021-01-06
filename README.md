@@ -1,15 +1,14 @@
-# _{Application Name}_
+# My-first-webpage
 
-#### _{Brief description of application}_
+#### My first webpage for the coding school Epicodus
 
-#### By _**{List of contributors}**_
+#### By James Wyn
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* HTML
+* CSS
+* GitHub
 
 ## Description
 
